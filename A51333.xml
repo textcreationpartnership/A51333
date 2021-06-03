@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>More brave and good newes from Ireland being a trve relation of the victorious battell fought by Collonel Lesly, and four regiments of English against 7000 of the rebels neer to the City of Cork, Mar. 2, wherein the Earl of MacKair, and a Spanish Collonel were taken prisoners ... also another famous battell fought by Col. Douglass ... against the L. Deloms regiments, neer ... Yoghall, Mar. 1 ... with a relation how a Spanish ship was taken by a Bristoll ship, being bound for Ireland ...</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51333</idno><idno type="EEBO-CITATION">8164119</idno>
+  <idno type="VID">40995</idno>
+  <idno type="EEBO-PROQUEST">2264207574</idno>
+  
+            <idno type="STC">Wing M2695</idno>
+            <idno type="STC">ESTC R24400</idno>
+            <idno type="OCLC">08164119</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A51333)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40995)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1235:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>More brave and good newes from Ireland being a trve relation of the victorious battell fought by Collonel Lesly, and four regiments of English against 7000 of the rebels neer to the City of Cork, Mar. 2, wherein the Earl of MacKair, and a Spanish Collonel were taken prisoners ... also another famous battell fought by Col. Douglass ... against the L. Deloms regiments, neer ... Yoghall, Mar. 1 ... with a relation how a Spanish ship was taken by a Bristoll ship, being bound for Ireland ...</title>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Thompson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40995:1"/>
+            <p>More Brave, and Good NEWES FROM IRELAND.</p>
+            <p>
+               <hi>BEING</hi> A TRVE RELATION OF THE Victorious Battell, fought by Collonel <hi>Lesly,</hi> and four Regiments of English, against <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>000. of the Rebels neer to the City of Cork. <hi>Mar.</hi> 3. wherein the Earl of <hi>Mackair,</hi> and a Spanish Collonel were taken Prisoners, and 1500. of them slain of our Party Sir <hi>Thomas Loppinger,</hi> and 200 of his Regiment, were slain.</p>
+            <p>Also another famous Battell fought by Col. <hi>Douglas</hi> and his Forces, against the L. <hi>Deloms Regiments,</hi> neer the City of <hi>Yoghall, Mar.</hi> 1. with the number that were slain on each side. Likewise the Confession of four Po<g ref="char:EOLhyphen"/>pish Priests at <hi>Dublin,</hi> Febr. 28.</p>
+            <p>With a Relation how a Spanish Ship was taken by a Bristoll ship, being bound for <hi>Ireland,</hi> with the names of the Commanders, having many <hi>Letters</hi> about them, con<g ref="char:EOLhyphen"/>cerning the principall affairs of both Kingdomes, <hi>England</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>
+               <hi>London, Printed for</hi> John Tompson. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:40995:2"/>
+            <pb facs="tcp:40995:2"/>
+            <head>Brave and good Newes from <hi>Ireland,</hi> by the last Post, Mar. 8. 1641.</head>
+            <opener>
+               <salute>Worthie Sir,</salute>
+            </opener>
+            <p>YOu have often solicited me for the know<g ref="char:EOLhyphen"/>ledge of the Occurrences of our distressed Kingdome of <hi>Ireland:</hi> I shall now endea<g ref="char:EOLhyphen"/>vour to satisfie your desire, and I hope your expe<g ref="char:EOLhyphen"/>ctation. The News I hope will be acceptable, wel<g ref="char:EOLhyphen"/>come I am sure it is unto our selves.</p>
+            <p>Vpon the 7. of Feb. Collonel <hi>Lesly</hi> assisted with some other Protestant forces, had Battell with the Rebels, which encourter was very fierce and doubt<g ref="char:EOLhyphen"/>full; in which battell Sir <hi>Thomas Loppinger</hi> a man of most deserving Memory lost his life, and the grea<g ref="char:EOLhyphen"/>test part of his Company (which were not above 300 and threescore men) lost their lives in this En<g ref="char:EOLhyphen"/>counter, the Generall of the Rebels were taken, and with him a Spanish Collonel, <hi>Ferdinando Fiaco.</hi> Since that time, upon the 22. of the same month, there arose a mutiny in <hi>Dublin,</hi> occasioned by some Catholicks, who are of the Rebels factions, but hath lived there very privately, untill they took occasion to discover themselves. Some of them are impriso<g ref="char:EOLhyphen"/>ned,
+<pb facs="tcp:40995:3"/>in which List these are the principall, and all of any note or quality. Sir <hi>Thomas Throgmorton,</hi> and Sir <hi>Ambrose Hoverlie,</hi> Sergeant Major <hi>Humphrey,</hi> and Captain <hi>Iohnson,</hi> all which are taken, and now remain in fast custody within the Castle of <hi>Dublin,</hi> where the Earl of <hi>Mackair,</hi> and the Spanish Collo<g ref="char:EOLhyphen"/>nel are at this time prisoners. Our City which by the enemy hath bin in danger and hazzard, hath some respite for their relief, by the most happy overthrow which lately was given unto the Rebels by the States. They having lost their Head and Ringleader, many of them have betaken themselves into the woods, and have shunned the publique passage a<g ref="char:EOLhyphen"/>broad, which is suspected, and hoped to be for want of strength, not will, to proceed in their insolent and tyrannicall rages.</p>
+            <p>
+               <hi>Knockvergus</hi> and <hi>London Derrie</hi> have obtained their Liberties of Trade, which was strengthened by the in<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ulting enemy, and we hope that Trading will every day be improved amongst us, I doubt not but you understand how Sir <hi>Wil. Sellingers</hi> Forces were cut off most unfortunately in <hi>Munster,</hi> where wee lost himself and 800. of his men, to the great discou<g ref="char:EOLhyphen"/>ragement of all our Countrie.</p>
+            <p>Vpon the 26. of Feb. it pleased Almighty God to give us some comfortable Newes after our losse of that noble Cavalier; for upon that day there was Sayling upon the Seas, a stately Spanish Bottome, not so glorious in her outward appearance, as able in her inward provision; which ship with all her strength, both of men and ammunition were bound
+<pb facs="tcp:40995:3"/>for the Relief and Assistance of the Rebellious for<g ref="char:EOLhyphen"/>ces in <hi>Ireland:</hi> but their reach was prevented, and their Design was cut short, for a Bristoll ship did cut her off in her passage, and being under Sail, gave her so hot an Encounter, that your Spanish Pride were constrained to yeeld unto them, and rather yeeld unto them then to stand the hot encounter of her Enemy. There was taken in that ship many Commanders of note and quality: neither was the ship lesse furnished with warlike provision then with men, that had they had so good successe as pro<g ref="char:EOLhyphen"/>vision, they might have won the day: there were al<g ref="char:EOLhyphen"/>so taken about those in the ship many Letters of great weight and consequence: wherein were con<g ref="char:EOLhyphen"/>tained the sum and Masters of all the Plots, and Conspirators of the Popish Faction, against the peace and prosperity of both the Kingdomes of <hi>England</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>In <hi>Waterford</hi> were taken seven Priests upon the 19. day of February: upon whose Examination was Discovered a most Divellish Design against our Land, to be put in Execution in the time of Divine Service at <hi>Dublin,</hi> of vvhich Design this is the Re<g ref="char:EOLhyphen"/>lation.</p>
+            <p>It was confessed by them, that they had of their Confederacie within the limits of that City, per<g ref="char:EOLhyphen"/>sons to the number of 400. able and sufficient for service, well provided with all kind of Armour both for defence and offence, and that they had a Design, that in the time of Divine Service, at the solemnitie
+<pb facs="tcp:40995:4"/>of Common Prayers, some few of that Confede<g ref="char:EOLhyphen"/>racy should raise a tumult about the Church of St. <hi>Maries,</hi> the rest with their powers would employ their strength in the body of the City, and surprize the most ablest buildings and houses, in plundering and carrying away their goods, and destroying the persons which they there should have found harbo<g ref="char:EOLhyphen"/>red, within those houses. This Execution was to have bin put in practise upon the 6. of March, but was most happily discovered by the Mercy of God.</p>
+            <p>These are the greatest Occurrences I can certifie you of for this present: by the next Post, I will give you further intelligence; and for this present I rest,</p>
+            <closer>
+               <dateline>CORK <date>the 1. of March, 1641</date>.</dateline>
+               <signed>Your most faithfull Friend <hi>AMBROSE TVRNER.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:40995:4"/>
+            <head>A true Relation how a Spanish ship was taken by a Bristoll ship, <hi>Feb.</hi> 28.</head>
+            <p>THere were discovered about the 10. of <hi>Febru<g ref="char:EOLhyphen"/>ary</hi> some Bottomes, hovering about the Seas, consisting of Spanish and French Bottoms, which wanting their expected opportunity for Lan<g ref="char:EOLhyphen"/>ding, being bound for the Relief of the Rebels of <hi>Ireland,</hi> and being very narrowly attended on by the Hollander, durst not put in, but betook themselves to Dunkirk, and there have ever since sheltred them<g ref="char:EOLhyphen"/>selves, and now within these few dayes desiring to perform their wishes to the Rebels in <hi>Ireland,</hi> mar<g ref="char:EOLhyphen"/>ched forth from Dunkirk, but were prevented of their purposes, and so chased by the Hollander, that they were constrained to flye for Harbour to Pli<g ref="char:EOLhyphen"/>mouth, they were so hardly prosecuted, that they were enforced to discover their intentions, and were immediatly committed to the Majors custody, and by him sent up to <hi>London:</hi> where they were con<g ref="char:EOLhyphen"/>ducted in by the Sheriffes of this City, and by Or<g ref="char:EOLhyphen"/>der from the Parliament House committed to se<g ref="char:EOLhyphen"/>verall Prisons, the number of them being 18 besides tvvo youths, all of them being Spanish and French Commanders, only one Englishman amongst them.</p>
+            <p>
+               <list>
+                  <head>The Names of the 18.</head>
+                  <item>
+                     <list>
+                        <item>Captain <hi>Butler.</hi>
+                        </item>
+                        <item>Cap. <hi>Iohn Ryant.</hi>
+                        </item>
+                        <item>Cap <hi>Dan. Ryant.</hi>
+                        </item>
+                        <item>
+                           <hi>Adam Gould, Marchant.</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Levalen, Marchant,</hi>
+                        </item>
+                        <item>
+                           <hi>Daniel Dally</hi>
+                        </item>
+                        <pb facs="tcp:40995:5"/>
+                        <item>Master. <hi>Morgan Quirk.</hi>
+                        </item>
+                        <item>
+                           <hi>Garret Foy.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Riaut.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Servants</head>
+                        <item>
+                           <hi>Nich. Faggot.</hi>
+                        </item>
+                        <item>
+                           <hi>Darby Ryaut.</hi>
+                        </item>
+                        <item>
+                           <hi>David Galloway.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Williams.</hi>
+                        </item>
+                        <item>
+                           <hi>Patrick Furlong.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Dym.</hi>
+                        </item>
+                        <item>
+                           <hi>Rich. Galloway.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Mattach.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Butler.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>Upon the 1. of March, Collonel <hi>Douglas</hi> took <hi>Youghall</hi> from the Rebels, and slew 300. of them, and took prisoner Captain <hi>Smith,</hi> M. <hi>Willet, and Lieutenant Johnson:</hi> of our Party were slain 65.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:40995:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
